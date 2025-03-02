@@ -26,4 +26,12 @@ Platforms Used
 1)Microsoft Power BI (Cloud & Desktop version) – For dashboard creation.
 2)Excel – For raw data collection and processing.
 
+Where We Use Big Data Analysis?
+
+1)Banking & Finance 
+2)Healthcare & Pharmaceuticals 
+3)E-commerce & Retail 
+4)Social Media & Marketing
+5)Smart Cities & lot
+
 
