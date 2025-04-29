@@ -1,13 +1,6 @@
 Dashboard # Credit-card-transaction-and-customers-data-analysis
 Credit Card Transaction &amp; Customer Analysis using Power BI, providing insights into revenue trends, spending patterns, and customer segmentation. Includes interactive dashboards, reports, and data-driven business recommendations.
 
-Company Name : Codtech IT solutions
-Name : sangram Sonawane 
-Intern ID : CT6WOIF
-Domain Name : Data Analytics 
-Duration : 6 weeks 
-Mentor Name : Neela Santhosh
-
 
 Description :
 Credit card transactions generate vast amounts of financial data that can be analyzed to detect fraud, understand customer behavior, and optimize business strategies. A well-designed dashboard enables financial institutions, businesses, and analysts to monitor transactions, identify spending patterns, and improve customer insights through interactive visualizations.
